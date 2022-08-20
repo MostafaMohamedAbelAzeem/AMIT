@@ -2,4 +2,6 @@
 int main()
 {
 	printf("Borio");
+	printf("Borio");
+
 }
